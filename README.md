@@ -50,7 +50,7 @@ Add these to your system PATH:
 
 ## Usage
 
-1.  Drop the script in the root of your SD card (or backup folder).
+1.  Drop the script in the root of your backup folder.
 2.  Run it.
 3.  Review the processing logs in the window.
 4.  The script will pause and wait for your confirmation before deleting the source files.
