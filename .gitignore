@@ -1,0 +1,8 @@
+*.wav
+*.wv
+make.cmd
+concat_list.txt
+timestamp_list.txt
+processed.log
+Results.log
+Converted/
